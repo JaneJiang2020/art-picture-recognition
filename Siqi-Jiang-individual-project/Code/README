@@ -1,4 +1,4 @@
- # This folder contains all the code created by our group memters for this project. 
+## This folder contains the individual code report by Siqi Jiang.
  ----------------------------------------------------------------------------------------------------------------------
  1. Data_Loading.py file contains the sets of code of loading images, data transformation, preprocess. 
  2. MLP.py file contains the sets of code to build and train the self-defined multilayer perceptron network model.
