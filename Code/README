@@ -1,1 +1,5 @@
- # This folder contains all the code created by our group memters. The files and creators are listed here.
+ # This folder contains all the code created by our group memters for this project. 
+ ----------------------------------------------------------------------------------------------------------------------
+ 1. CNN_model.py file contains the sets of code to build and train the self-defined convolution neural network model 
+   including confusion matrix graphs, figures.
+ 2. Pretrain_VGG.py file contains all the code to build and and train the pretrained VGG16 model including figure and plots.
