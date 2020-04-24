@@ -2,7 +2,7 @@
  ----------------------------------------------------------------------------------------------------------------------
  1. Data_Loading.py file contains the sets of code of loading images, data transformation, preprocess. 
  2. MLP.py file contains the sets of code to build and train the self-defined multilayer perceptron network model.
- 3. CNN_model.py file contains the sets of code to build and train the self-defined convolution neural network model 
+ 3. CNN_network.py file contains the sets of code to build and train the self-defined convolution neural network model 
    including confusion matrix graphs, figures.
  4. Pretrain_VGG.py file contains all the code to build and and train the pretrained VGG16 model including figure and plots.
  5. Pretrain_ResNet50.py file contains all the code to build and and train the pretrained ResNet50 model including including confusion matrix graphs, figures.
