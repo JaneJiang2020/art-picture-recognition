@@ -2,9 +2,9 @@
 
 Requirements
 ----------------------------
-PyCharm
-Keras
-PyTorch
+PyCharm,
+Keras,
+PyTorch,
 Custom CNN, VGG-16, Resnet50
 
 4 Group Folders:
