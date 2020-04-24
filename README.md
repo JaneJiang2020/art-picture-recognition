@@ -1,4 +1,4 @@
-# Final-Projet-Group3: IDENTIFY ARTIST FROM ART BASED ON NEURAL NETWORKS
+# Final-Projet-Group3: Identify Artist From Art Based On Neural Networks
 4 Group Folders:
 ----------------------------
 
