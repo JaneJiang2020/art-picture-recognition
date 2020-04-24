@@ -1,6 +1,11 @@
 # Final-Projet-Group3: Identify Artist From Art Based On Neural Networks    
-<b> 4 Group Folders:</b> 
 
+Requirements
+----------------------------
+PyCharm
+Keras
+PyTorch
+Custom CNN, VGG-16, Resnet50
 
 4 Group Folders:
 ----------------------------
